@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333353025223",
+    "project_id": "gamesnack-2099c",
+    "storage_bucket": "gamesnack-2099c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333353025223:android:00eb0feede2f525b5988e2",
+        "android_client_info": {
+          "package_name": "com.swetabiswas.gamesnack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8i3QbmtmWs7FNq0tZv12dbhWSXF15QN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

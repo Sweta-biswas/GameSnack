@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.GameSnack" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <!-- Prevent white flash before Compose renders the splash -->
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
